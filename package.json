@@ -1,0 +1,28 @@
+{
+  "name": "nodetest",
+  "version": "0.1.0",
+  "description": "test module for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinfin/nodetest.git"
+  },
+  "keywords": [
+    "node.js",
+    "js",
+    "test"
+  ],
+  "author": "Justin Holmes <justin@openfin.co> (http://openfin.co/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinfin/nodetest/issues"
+  },
+  "homepage": "https://github.com/justinfin/nodetest",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
